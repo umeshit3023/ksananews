@@ -1,2 +1,0 @@
-# ksananews
-NewsFlow AI
